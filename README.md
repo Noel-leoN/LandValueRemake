@@ -55,5 +55,5 @@ Remaked and improved landvalue-rent system.
 - Strongly recommand save your game data before use this mod. (Although most of the time there will be no problems)
 
 # Credits
- - Thanks to Cities Skylines 2 Unofficial Modding Discord(https://discord.gg/nJBfTzh7),  Cities Skylines 2 Modding Discord (https://discord.gg/75mm2RU9), and thanks to Infixo , Jimmyokok , 89Pleasure,  algeron , yanyang and other kind people (In no particular order, please forgive me for not being able to list all) for getting reference and help.
+ - Thanks to Cities Skylines 2 Unofficial Modding Discord(https://discord.gg/nJBfTzh7),  Cities Skylines 2 Modding Discord (https://discord.gg/HTav7ARPs2), and thanks to Infixo , Jimmyokok , 89Pleasure,  algeron , yanyang ,krzychu124 and other kind people (In no particular order, please forgive me for not being able to list all) for getting reference and help.
  - Thanks to [CSLBBS](https://www.cslbbs.net): Cities: Skylines 2 community ( in chinese )

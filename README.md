@@ -1,4 +1,5 @@
 # Cities: Skylines 2 Mod - LandValueRemake
+NOT Compatible with current game update!
 
 Remaked and improved landvalue-rent system.
 
